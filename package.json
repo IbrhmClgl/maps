@@ -1,0 +1,19 @@
+{
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "typescript": "^5.4.5"
+  },
+  "name": "maps",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "@types/google.maps": "^3.55.9"
+  }
+}
